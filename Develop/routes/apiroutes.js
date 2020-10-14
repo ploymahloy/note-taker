@@ -24,4 +24,20 @@ module.exports = function(app) {
         });
     });
   })
+  app.delete("/api/notes/:id", function(req, res) { 
+    let selNote = req.params.id;
+    fs.readFile(path.join(__dirname, "../db/db.json"), function (err, data) {
+        if (err) {
+            console.log("error");
+        }
+        let notes = JSON.parse(data);
+        let newNote = notes.filter(note => note.id !== selNote);
+        fs.writeFile(path.join(__dirname, "../db/db.json"), JSON.stringify(newNote), function (err) {
+            if (err) {
+                console.log("error");
+            }
+            res.json(newNote);
+        });
+    });
+  })
 };
