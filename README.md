@@ -1,5 +1,3 @@
-# Unit 11 Express Homework: Note Taker
-
 ## Deployed App: https://note-taker-mahloy.herokuapp.com/
 
 ## Description
