@@ -1,4 +1,6 @@
-## Deployed App: https://note-taker-mahloy.herokuapp.com/
+# Note-Taker
+
+## Live: https://note-taker-mahloy.herokuapp.com/
 
 ## Description
 
