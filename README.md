@@ -1,6 +1,7 @@
 # Note-Taker
 
-## Live: https://note-taker-mahloy.herokuapp.com/
+to do:
+- overhaul with React
 
 ## Description
 
