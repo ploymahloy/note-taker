@@ -1,7 +1,7 @@
-# Note-Taker
+# [----> Live <----](https://note-taker-mahloy.herokuapp.com/)
 
 to do:
-- overhaul with React
+- [ ] Change pencil icon to plus icon
 
 ## Description
 
