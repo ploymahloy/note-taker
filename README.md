@@ -1,7 +1,8 @@
 # [----> Live <----](https://note-taker-mahloy.herokuapp.com/)
 
 to do:
-- [ ] Change pencil icon to plus icon
+- [x] Change pencil icon to plus icon
+- [x] Remove placeholder note (or make it delete-able, but removing it makes more sense)
 
 ## Description
 
