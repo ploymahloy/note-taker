@@ -1,6 +1,7 @@
 # [----> Live <----](https://note-taker-mahloy.herokuapp.com/)
 
 to do:
+- [ ] Update deployment build to reflect changes below
 - [x] Change pencil icon to plus icon
 - [x] Remove placeholder note (or make it delete-able, but removing it makes more sense)
 
